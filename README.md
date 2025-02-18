@@ -6,7 +6,7 @@ The game provides real-time interaction, where the user's performance is immedia
 
 
 
-![example](https://github.com/nimadorostkar/RealTime-Finger-Counter/blob/master/data/demo.mp4)
+![example](https://github.com/nimadorostkar/RealTime-Finger-Counter/blob/master/data/demo.gif)
 
 
 # Getting Started
