@@ -6,7 +6,7 @@ This project leverages the MediaPipe framework to develop a computer vision mode
 The game provides real-time interaction, where the user's performance is immediately assessed. The results are displayed on the screen, indicating whether the user correctly replicated the prompted number.
 
 
-![example](https://github.com/nimadorostkar/human-detection/blob/master/data/images/simple.gif)
+![example](https://github.com/nimadorostkar/RealTime-Finger-Counter/blob/master/data/demo.mp4)
 
 
 
