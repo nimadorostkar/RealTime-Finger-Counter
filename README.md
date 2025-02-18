@@ -5,6 +5,11 @@ This project leverages the MediaPipe framework to develop a computer vision mode
 # Real-time Interaction
 The game provides real-time interaction, where the user's performance is immediately assessed. The results are displayed on the screen, indicating whether the user correctly replicated the prompted number.
 
+
+![example](https://github.com/nimadorostkar/human-detection/blob/master/data/images/simple.gif)
+
+
+
 # Getting Started
 1. Clone this repository
 
